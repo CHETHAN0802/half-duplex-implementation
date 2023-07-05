@@ -1,2 +1,2 @@
 # Half-Duplex-Implementation
-Half Duplex using python
+Half Duplex implementation using python
